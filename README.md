@@ -1,7 +1,10 @@
 number_dot
 ==========
 
-make easy read number in input text box
+jquery plugin to make easy read number in input text
 
-more hard to read 70000000 than this 70.000.000
+is more hard to read 70000000 than 70.000.000
 
+so lets make it simple
+
+how to ? download and run demo page
